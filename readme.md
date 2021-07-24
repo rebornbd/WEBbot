@@ -9,7 +9,7 @@ backend: django, celery, rabbitmq, Elasticsearch
 # functionality
 Fixed URL Crawling
 Continious URL Crawling
-WEB Iidexing (using Elasticsearch)
+WEB Indexing (using Elasticsearch)
 ```
 
 #### frontend
