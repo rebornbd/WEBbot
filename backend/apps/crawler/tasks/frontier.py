@@ -16,13 +16,13 @@ class URLfrontier():
     # front queue selector & back queue router & maintains prioritization
     # parameters: 
     # return: 
-    def frontQSelector(self):
+    def frontQueueSelector(self):
         pass
     
     # back queue selector & maintains politeness
     # parameters: 
     # return: 
-    def backQSelector(self):
+    def backQueueSelector(self):
         pass
     
     
